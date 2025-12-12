@@ -3,6 +3,7 @@
 Proyek ini berisi dokumentasi dan contoh implementasi integrasi **MikroTik Hotspot** dengan **API backend** dan **database PostgreSQL** untuk kebutuhan autentikasi, pencatatan login, dan manajemen user.
 
 ---
+Mikrotik menggunakan ROS 6.49.10
 
 ## 🚀 Tujuan Proyek
 - Menyimpan data login hotspot ke database PostgreSQL.
