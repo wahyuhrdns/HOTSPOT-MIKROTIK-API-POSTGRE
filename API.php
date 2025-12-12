@@ -2,11 +2,11 @@
 header("Content-Type: application/json");
 
 // SETTING DATABASE
-$host = "IP_Server_POSTGRESQL";
-$port = "5432";
-$db   = "HOTSPOTLOGDB";  // <-- DISINI DIGANTI
-$user = "USER_POSTGRE";
-$pass = "PASSWORD_POSTGRE";
+$host = "IP_Server_POSTGRESQL";  // <-- DISINI DIGANTI sesuaikan dengan database yang dibuat
+$port = "5432";   // <-- DISINI DIGANTI sesuaikan dengan database yang dibuat
+$db   = "HOTSPOTLOGDB";  // <-- DISINI DIGANTI sesuaikan dengan database yang dibuat
+$user = "USER_POSTGRE";  // <-- DISINI DIGANTI sesuaikan dengan database yang dibuat
+$pass = "PASSWORD_POSTGRE";   // <-- DISINI DIGANTI sesuaikan dengan database yang dibuat
 
 try {
     // Koneksi ke PostgreSQL
