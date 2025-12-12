@@ -4,7 +4,7 @@ header("Content-Type: application/json");
 // SETTING DATABASE
 $host = "IP_Server_POSTGRESQL";
 $port = "5432";
-$db   = "HOTSPOTLOG";  // <-- DISINI DIGANTI
+$db   = "HOTSPOTLOGDB";  // <-- DISINI DIGANTI
 $user = "USER_POSTGRE";
 $pass = "PASSWORD_POSTGRE";
 
