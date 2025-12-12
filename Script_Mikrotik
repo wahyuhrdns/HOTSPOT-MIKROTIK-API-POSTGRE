@@ -1,0 +1,3 @@
+/tool fetch http-method=post http-header-field="Content-Type: application/json" \
+http-data="{\"id\":\"$user\", \"ip\":\"$address\", \"mac\":\"$mac\", \"hostname\":\"$host\"}" \
+url="https://ip_webserver_api.php/api.php" keep-result=no
