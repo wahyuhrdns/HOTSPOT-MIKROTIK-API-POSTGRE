@@ -4,6 +4,7 @@ Proyek ini berisi dokumentasi dan contoh implementasi integrasi **MikroTik Hotsp
 
 ---
 Mikrotik menggunakan ROS 6.49.10
+paste script mikrotik pada ip hotspot userprofile on login
 
 ## 🚀 Tujuan Proyek
 - Menyimpan data login hotspot ke database PostgreSQL.
